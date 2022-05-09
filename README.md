@@ -38,4 +38,4 @@ python blur.py input_image kernel output_image noise_level
 ### Примеры:
 Размытое и зашумленное изображение       |  Результат
 :-------------------------:|:-------------------------:
-![](/test_data/test.bmp)   |  ![](/test_data/test_result.bmp)
+![](/test_data/test_blurred.bmp)   |  ![](/test_data/test_result.bmp)
